@@ -1,7 +1,7 @@
 # Brief
 Project: Web/Mobile/Windows cross-platform application for business communication/project management tool
-•	Studied business and technical requirements to understand the product features
-•	Developed and maintained test documentation such as test cases, test suites, contributed to the test plan
+<ul> Studied business and technical requirements to understand the product features
+<ul> Developed and maintained test documentation such as test cases, test suites, contributed to the test plan
 •	Executed test procedures against new builds
 •	Took part in regression, build acceptance, integration and system level testing
 •	Tested user interface along with the guidelines published by the US Department of Health and Human Services
