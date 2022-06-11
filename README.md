@@ -1,6 +1,5 @@
 # Brief
-<hr>Project: Web/Mobile/Windows cross-platform application for business communication/project management tool
-<hr>
+Project: Web/Mobile/Windows cross-platform application for business communication/project management tool
 <ul>
   <li>Studied business and technical requirements to understand the product features</li>
   <li>Developed and maintained test documentation such as test cases, test suites, contributed to the test plan</li>
@@ -15,4 +14,3 @@
   <li>Participated in Agile Scrum meetings and other Agile rituals</li>
   <li>Utilized Postman for testing web services (REST API testing)</li>
 </ul>
-<hr>
