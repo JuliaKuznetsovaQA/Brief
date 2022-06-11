@@ -14,3 +14,5 @@ Project: Web/Mobile/Windows cross-platform application for business communicatio
   <li>Participated in Agile Scrum meetings and other Agile rituals</li>
   <li>Utilized Postman for testing web services (REST API testing)</li>
 </ul>
+<hr>
+<a href="https://docs.google.com/spreadsheets/d/1DMznfizdl7SD4V0x9QMZTuWXRfexHR_A7oBPF0-OAM4/edit?usp=sharing">Test cases, bug reports</a>
